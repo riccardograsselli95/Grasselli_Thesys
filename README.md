@@ -19,6 +19,6 @@ Step 3: put images in Dataset folder
 
 Step 4: launch main.py
 
-Every main.py is configured for the a singular dataset and will save results in Results folder. It's present also the Tensorboard file obtained during training session.
+Every main.py is configured for the a singular dataset and will save results in Results folder. 
 
 With print_results.py you can load results.json file and visualize results with Matplotlib. 
