@@ -1,0 +1,26 @@
+{
+    "mean_absolute_error": {
+
+    },
+    "val_mean_absolute_error": {
+
+    },    
+    "loss": {
+
+    },    
+    "val_loss": {
+
+    },    
+    "DSSIM": {
+
+    },
+    "SSIM": {
+
+    },    
+    "val_DSSIM": {
+
+    },
+    "val_SSIM": {
+
+    }
+}

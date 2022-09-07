@@ -1,0 +1,20 @@
+{
+    "mean_absolute_error": {
+
+    },
+    "val_mean_absolute_error": {
+
+    },    
+    "loss": {
+
+    },    
+    "val_loss": {
+
+    },    
+    "SSIM": {
+
+    },
+    "val_SSIM": {
+
+    }
+}
