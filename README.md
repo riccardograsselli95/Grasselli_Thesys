@@ -1,12 +1,12 @@
-# Grasselli_Thesys
-Repositories with source code to reproduce thesys experiment.
-
 ## Multimodal NN for reconstruct radial and lowpass filtered MRI images
 ### Riccardo Grasselli Thesis
 ### Relator: Prof. Aurelio Uncini
 ### La Sapienza University
 
-This repository contains the Multimodal Neural Network files based on "A Wide Multimodal Dense U-Net for Fast Magnetic Resonance Imaging" (https://ieeexplore.ieee.org/document/9287519): this network is able to reconstruct undersampled MS images taken from several datasets (Brats2021 and OpenMS 2018).
+This repository contains source code to reproduce thesys experiment. 
+The Multimodal Neural Network files are based on "A Wide Multimodal Dense U-Net for Fast Magnetic Resonance Imaging" (https://ieeexplore.ieee.org/document/9287519): this network is able to reconstruct undersampled MS images taken from several datasets (Brats2021 and OpenMS 2018).
+I have studied the possibility to use this network also with radial and lowpass undersampled MRI images to simulate a different sampling applied on images.
+In "Utils" folder there are codes to undersampling the datasets according the two modalities: lowpass and radial.
 
 
 Step 1: download dataset of interesting (OpenMS or Brats2021) from following links:
